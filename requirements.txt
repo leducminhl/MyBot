@@ -1,0 +1,6 @@
+telethon
+fastapi
+uvicorn
+httpx
+python-telegram-bot
+python-dotenv
